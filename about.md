@@ -8,4 +8,4 @@ Hey there, my name is Stephen Bourke, I am software developer living and working
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+<a href="https://ie.linkedin.com/in/stephen-bourke-15b518a5">Stephen Bourke</a>
